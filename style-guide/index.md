@@ -1,10 +1,9 @@
 ---
-published: true
-# Custom Page Variables
-# ─────────────────────
+layout   : style-guide
+permalink: /style-guide
+#
 title: Style Guide
 ---
-[Terug]({{ site.baseurl }}{% link pages/index.html %}){:.btn.btn-primary.mt-1}
 
 Style Guide
 ===========
@@ -13,6 +12,16 @@ Style Guide
 Content
 -------
 {:.style-guide}
+
+### Buttons
+
+<button type="button" class="primary">Primary</button>
+
+<button type="button" class="secondary">Secondary</button>
+
+<button type="button" class="success">Success</button>
+
+<button type="button" class="Alert">Alert</button>
 
 ### Typography
 {:.style-guide}
